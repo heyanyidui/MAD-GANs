@@ -31,7 +31,7 @@ Please refer to https://github.com/ratschlab/RGAN for the original code.
   ```bash
   $ python AD.py --settings_file kdd99_test
   ```
-  """ python AD_Invert.py --settings_file kdd99_test"""
+
 
 ## Data
 
