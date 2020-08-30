@@ -22,12 +22,15 @@ Please refer to https://github.com/ratschlab/RGAN for the original code.
 
 - To train the model:
   
-  """ python RGAN.py --settings_file kdd99 """
+  ```bash
+  $ python RGAN.py --settings_file kdd99 
+  ```
 
 - To do anomaly detection:
 
-  """ python AD.py --settings_file kdd99_test"""
-  
+  ```bash
+  $ python AD.py --settings_file kdd99_test
+  ```
   """ python AD_Invert.py --settings_file kdd99_test"""
 
 ## Data
